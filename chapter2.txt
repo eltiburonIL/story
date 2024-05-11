@@ -1,0 +1,3 @@
+Sure! Here's a short paragraph highlighting the main differences between JavaScript (JS) and TypeScript (TS):
+
+JavaScript (JS) is a dynamically typed scripting language primarily used for client-side web development. It allows for flexible and quick development but lacks static type checking. On the other hand, TypeScript (TS) is a superset of JavaScript that adds static typing, making it more suitable for large-scale projects. TS provides compile-time type checking, which helps catch errors early and improves code maintainability. Additionally, TS supports modern JavaScript features and provides enhanced tooling and IDE support.
